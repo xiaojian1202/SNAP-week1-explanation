@@ -9,3 +9,5 @@ Drawing Shape (Triangle, Square, Pentagon) - https://youtu.be/dds0Uq_zixI
 Conditional Loop - https://youtu.be/Jac9DvyXayQ
 
 Moving Ball Target (If, Else) - https://youtu.be/0UOxtyubv2w
+
+Moving Penguin (Nested If) - https://youtu.be/6JWcTLEe6Iw
